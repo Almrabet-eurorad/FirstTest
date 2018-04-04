@@ -5,5 +5,10 @@ wie gehts?
 
 Test 3
 
+Test4 for Branch1
 
+Test10 for Branch2
+
+Merge1Test11
+Merge1Test12
 Test12
